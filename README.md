@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # RECKLESS ELEMENTS™
 
 ### Independent Creative Development & Production
