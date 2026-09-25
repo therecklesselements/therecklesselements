@@ -91,7 +91,9 @@ Internal source archives, manuscripts, unreleased artwork, proprietary developme
 **Founder — Reckless Elements™**  
 **Independent Creative Development & Production**
 
-Jared's professional background spans high-volume operations, logistics, remote SaaS operations, workflow coordination, software quality assurance and release validation, Customer Success, onboarding, documentation, and cross-functional problem solving. His career has progressed from hospitality management and operations into technology and independent creative development, with an emphasis on integrity and creating original, high quality works of art.
+Jared's professional background spans high-volume operations and management, logistics, remote SaaS operations, workflow coordination, software quality assurance and release validation, Customer Success, onboarding, documentation, and cross-functional problem solving.
+
+His career has progressed from hospitality management operations into remote technology and independent creative development, with an emphasis on organizing complex work, coordinating people and systems, solving operational problems, and moving teams and their projects over the finish line.
 
 Reckless Elements™ applies that operational and systems-oriented experience to the high integrity development and production of original creative properties.
 
