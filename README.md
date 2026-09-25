@@ -2,13 +2,13 @@
 
 ### Independent Creative Development & Production
 
-**Reckless Elements™** is an independent creative studio founded by **Jared Wood**, developing original entertainment properties across games, publishing, visual development, interactive media, and related forms of original IP.
+**Reckless Elements™** is an independent creative studio founded by **Jared Wood**, developing original entertainment properties across games, publishing, visual development, and interactive media.
 
 The studio focuses on transforming large creative concepts into structured, coherent projects through world development, production planning, information architecture, visual development, asset organization, continuity management, research, prototyping, and iterative production.
 
 ---
 
-## Featured Development
+## Featured Properties
 
 ### THE RECKLESS™
 
@@ -91,7 +91,7 @@ Internal source archives, manuscripts, unreleased artwork, proprietary developme
 **Founder — Reckless Elements™**  
 **Independent Creative Development & Production**
 
-Jared's professional background spans high-volume operations and management, logistics, remote SaaS operations, workflow coordination, software quality assurance and release validation, Customer Success, onboarding, documentation, and cross-functional problem solving.
+Jared's professional background spans high-volume operations, team management, logistics, remote SaaS operations, workflow coordination, software quality assurance and release validation, Customer Success, onboarding, documentation, and cross-functional problem solving.
 
 His career has progressed from hospitality management operations into remote technology and independent creative development, with an emphasis on organizing complex work, coordinating people and systems, solving operational problems, and moving teams and their projects over the finish line.
 
@@ -109,7 +109,7 @@ Selected production work, case studies, prototypes, and finished artifacts will 
 
 ---
 
-© Reckless Elements™ / Jared Wood. All original properties, names, worlds, characters, artwork, documentation, and related creative materials remain the property of their respective rights holders unless explicitly stated otherwise.
+© Reckless Elements™ / Jared Wood. All rights reserved. Original properties and materials presented here remain the property of their respective rights holders unless explicitly stated otherwise.
 <!--
 **therecklesselements/therecklesselements** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
