@@ -95,14 +95,14 @@ Jared's professional background spans high-volume operations, team management, l
 
 His career has progressed from hospitality management operations into remote technology and independent creative development, with an emphasis on organizing complex work, coordinating people and systems, solving operational problems, and moving teams and their projects over the finish line.
 
-Reckless Elements™ applies that operational and systems-oriented experience to the high integrity development and production of original creative properties.
+Reckless Elements™ applies that operational and systems-oriented experience to the high-integrity development and production of original creative properties.
 
 ---
 
 ## Current Status
 
 **Studio:** Active Development  
-**Featured Flagship Properties:** THE RECKLESS™ · Seraphin Machina™  
+**Featured Flagship Properties:** THE RECKLESS™ · SERAPHIN MACHINA™  
 **Public Portfolio:** In Development
 
 Selected production work, case studies, prototypes, and finished artifacts will be added as projects reach appropriate public-development milestones.
@@ -110,17 +110,3 @@ Selected production work, case studies, prototypes, and finished artifacts will 
 ---
 
 © Reckless Elements™ / Jared Wood. All rights reserved. Original properties and materials presented here remain the property of their respective rights holders unless explicitly stated otherwise.
-<!--
-**therecklesselements/therecklesselements** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
