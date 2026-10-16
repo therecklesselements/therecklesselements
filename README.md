@@ -8,7 +8,18 @@ The studio focuses on transforming large creative concepts into structured, cohe
 
 ---
 
-## Featured Properties
+## Current Production
+
+### FATDOG
+
+**Status:** In Production — Active Development  
+**Studio:** Reckless Elements™
+
+FATDOG is the studio's only property currently in production, with active development underway.
+
+---
+
+## Other Properties in Development
 
 ### THE RECKLESS™
 
@@ -38,13 +49,12 @@ Current development includes world systems, game concepts, production documentat
 
 Additional original properties currently in our development pipeline include:
 
-- **FATDOG**
 - **BURNZA**
 - **BIOMERSTRA**
 - **APOKEEPLYPSE**
 - **THE SQUEEBULY SQUEE**
 
-These projects are at varying stages of early development and are not yet presented here as completed or released works.
+These projects are in development and are not currently in production.
 
 ---
 
@@ -102,7 +112,8 @@ Reckless Elements™ applies that operational and systems-oriented experience to
 ## Current Status
 
 **Studio:** Active Development  
-**Featured Flagship Properties:** THE RECKLESS™ · SERAPHIN MACHINA™  
+**Only Project in Production:** FATDOG — Active Development  
+**Other Properties:** In Development (Not in Production)  
 **Public Portfolio:** In Development
 
 Selected production work, case studies, prototypes, and finished artifacts will be added as projects reach appropriate public-development milestones.
