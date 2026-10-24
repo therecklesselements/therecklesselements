@@ -30,8 +30,8 @@ Beyond its publicly presented work, THE RECKLESS ELEMENTS maintains a private de
 
 ## Founder
 
-**Jared Wood — Founder & Creative Director**
+**J. A. Wood — Founder & Creative Director**
 
 Creative development informed by professional experience in SaaS support, training, quality assurance, documentation and operations.
 
-© THE RECKLESS ELEMENTS / Jared Wood. All rights reserved.
+© THE RECKLESS ELEMENTS / J. A. Wood. All rights reserved.
