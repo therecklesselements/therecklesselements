@@ -2,7 +2,7 @@
 
 **Independent creative studio for original games and worlds.**
 
-THE RECKLESS ELEMENTS is a solo-led studio founded by Jared Wood, developing original games and entertainment IP through narrative design, worldbuilding, visual development and publications.
+THE RECKLESS ELEMENTS is a solo-led studio founded by J. A. Wood, developing original games and entertainment IP through narrative design, worldbuilding, visual development and publications.
 
 ## Active Game Development
 
