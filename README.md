@@ -1,123 +1,37 @@
-# RECKLESS ELEMENTS™
+# THE RECKLESS ELEMENTS
 
-### Independent Creative Development & Production
+**Independent creative studio for original games and worlds.**
 
-**Reckless Elements™** is an independent creative studio founded by **Jared Wood**, developing original entertainment properties across games, publishing, visual development, and interactive media.
+THE RECKLESS ELEMENTS is a solo-led studio founded by Jared Wood, developing original games and entertainment IP through narrative design, worldbuilding, visual development and publications.
 
-The studio focuses on transforming large creative concepts into structured, coherent projects through world development, production planning, information architecture, visual development, asset organization, continuity management, research, prototyping, and iterative production.
-
----
-
-## Current Production
+## Active Game Development
 
 ### FATDOG
+An original game in active Unity development and the studio’s current commercial game-production focus.
 
-**Status:** In Production — Active Development  
-**Studio:** Reckless Elements™
+## Completed Publication
 
-FATDOG is the studio's only property currently in production, with active development underway.
+### Spellubeld & The Blue Between — Master Screen Edition
+A completed 35-page digital publication introducing a surreal fantasy exploration world. The original property continues in development.
 
----
+## Selected Original Worlds
 
-## Other Properties in Development
+### THE RECKLESS
+The studio's flagship dark-fantasy IP, developed through narrative, characters, Monstra, visual worldbuilding, cartography, publications and interactive design.
 
-### THE RECKLESS™
-
-An original dark-fantasy entertainment property encompassing narrative fiction, world development, creature and character design, visual development, cartography, publishing, and interactive-media development.
-
-**Status:** In Development  
-**Studio:** Reckless Elements™  
-**Creator:** Jared Wood
-
-Current development includes structured world and narrative systems, visual-development assets, publication work, and broader interactive-media exploration.
-
----
-
-### SERAPHIN MACHINA™
-
-An original science-fiction / post-apocalyptic interactive entertainment property centered on the remains of an advanced machine civilization, lost technological kingdoms, autonomous intelligences, exploration, and survival.
-
-**Status:** In Development  
-**Studio:** Reckless Elements™  
-**Creator:** Jared Wood
-
-Current development includes world systems, game concepts, production documentation, gameplay architecture, visual development, and preparation for bounded prototype work.
-
----
-
-## Studio Development Slate
-
-Additional original properties currently in our development pipeline include:
-
-- **BURNZA**
-- **BIOMERSTRA**
-- **APOKEEPLYPSE**
-- **THE SQUEEBULY SQUEE**
-
-These projects are in development and are not currently in production.
-
----
+### PROJECT SERAPHIN MACHINA
+An original science-fiction and survival-action IP in interactive development, supported by worldbuilding, campaign design and visual development.
 
 ## Development Practice
 
-Reckless Elements™ explores the practical systems required to move original creative properties from concept toward production, including:
+This GitHub is the studio’s home for selected development work. Documentation, technical examples and project materials will be shared as they become ready for public review. Production source, internal manuscripts and proprietary assets remain private.
 
-**Creative Development**  
-Worldbuilding · Narrative Systems · Concept Development · Visual Development · Research & Synthesis
-
-**Production & Operations**  
-Production Planning · Project Documentation · Workflow Design · Asset Organization · Version Management · Quality Review
-
-**Information Systems**  
-Information Architecture · Continuity Management · Knowledge Organization · Taxonomy · Structured Documentation
-
-**Interactive Development**  
-Game Development Planning · Gameplay Systems · Prototype Development · Iterative Design
-
----
-
-## Public Development Repository
-
-This GitHub serves as a curated public record of selected Reckless Elements™ development work.
-
-Repositories may include:
-
-- production documentation
-- project-development systems
-- prototypes and technical experiments
-- selected design documentation
-- workflow and organizational systems
-- portfolio case studies
-- public-facing project materials
-
-Internal source archives, manuscripts, unreleased artwork, proprietary development materials, and other private project assets are intentionally excluded.
-
----
+Beyond its publicly presented work, THE RECKLESS ELEMENTS maintains a private development slate of additional original game and entertainment concepts. Projects are advanced selectively based on feasibility, creative value and production readiness.
 
 ## Founder
 
-### Jared Wood
+**Jared Wood — Founder & Creative Director**
 
-**Founder — Reckless Elements™**  
-**Independent Creative Development & Production**
+Creative development informed by professional experience in SaaS support, training, quality assurance, documentation and operations.
 
-Jared's professional background spans high-volume operations, team management, logistics, remote SaaS operations, workflow coordination, software quality assurance and release validation, Customer Success, onboarding, documentation, and cross-functional problem solving.
-
-His career has progressed from hospitality management operations into remote technology and independent creative development, with an emphasis on organizing complex work, coordinating people and systems, solving operational problems, and moving teams and their projects over the finish line.
-
-Reckless Elements™ applies that operational and systems-oriented experience to the high-integrity development and production of original creative properties.
-
----
-
-## Current Status
-
-**Studio:** Active Development  
-**Only Project in Production:** FATDOG — Active Development  
-**Other Properties:** In Development (Not in Production)  
-**Public Portfolio:** In Development
-
-Selected production work, case studies, prototypes, and finished artifacts will be added as projects reach appropriate public-development milestones.
-
----
-
-© Reckless Elements™ / Jared Wood. All rights reserved. Original properties and materials presented here remain the property of their respective rights holders unless explicitly stated otherwise.
+© THE RECKLESS ELEMENTS / Jared Wood. All rights reserved.
