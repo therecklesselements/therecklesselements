@@ -10,6 +10,7 @@
 2. **[Agent Contract / AGENTS.md Template v1.0.0](AGENTS_TEMPLATE_v1.0.0.md)** — a restrictive contract to install in a future private operational workspace; public template only, not an active agent.
 3. **[Installation and Acceptance Test Plan v1.0.0](ACCEPTANCE_TEST_PLAN_v1.0.0.md)** — objective gate matrix (A00–A12), evidence requirements, practical test commands, positive/negative controls, and promotion rules.
 4. **[Original C test fixture](fixtures/owned_transform.c)** and **[independent Python verifier](fixtures/verify_transform.py)** — an intentionally tiny self-owned sample for a future blind binary-analysis trial. Do not hand the fixture source or oracle to the investigating agent.
+5. **[Local fixture QA receipt](fixtures/FIXTURE_QA_2026-11-11.md)** — exact published fixture files compiled and positive/negative controls checked in an isolated test container; this is **not** a live Codex/REA/Ghidra harness validation.
 
 ## Version and evidence policy
 
