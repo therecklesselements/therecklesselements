@@ -24,6 +24,8 @@ An original science-fiction and survival-action IP in interactive development, s
 
 ## Development Practice
 
+**Published technical documentation:** [AIARE — AI-Assisted Reverse Engineering Research Harness v1.0.0](docs/engineering/aiare/README.md). The harness is a specification and test package; local Codex/REA/Ghidra deployment remains unverified.
+
 This GitHub is the studio’s home for selected development work. Documentation, technical examples and project materials will be shared as they become ready for public review. Production source, internal manuscripts and proprietary assets remain private.
 
 Beyond its publicly presented work, THE RECKLESS ELEMENTS maintains a private development slate of additional original game and entertainment concepts. Projects are advanced selectively based on feasibility, creative value and production readiness.
