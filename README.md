@@ -24,7 +24,9 @@ An original science-fiction and survival-action IP in interactive development, s
 
 ## Development Practice
 
-**Published technical documentation:** [AIARE — AI-Assisted Reverse Engineering Research Harness v1.0.0](docs/engineering/aiare/README.md). The harness is a specification and test package; local Codex/REA/Ghidra deployment remains unverified.
+**Studio development philosophy:** [HYPEROP — Master Development Philosophy v1.2](docs/development/hyperop/HYPEROP_MASTER_DEVELOPMENT_PHILOSOPHY_v1.2.md). HYPEROP is the studio's experience-first methodology for game design, production, content, interface, and technical development.
+
+**Published technical documentation:** [AIARE — AI-Assisted Reverse Engineering Research Harness v1.0.0](docs/engineering/aiare/README.md). AIARE is a supporting research and verification methodology; the harness is a specification and test package, and local Codex/REA/Ghidra deployment remains unverified.
 
 This GitHub is the studio’s home for selected development work. Documentation, technical examples and project materials will be shared as they become ready for public review. Production source, internal manuscripts and proprietary assets remain private.
 
