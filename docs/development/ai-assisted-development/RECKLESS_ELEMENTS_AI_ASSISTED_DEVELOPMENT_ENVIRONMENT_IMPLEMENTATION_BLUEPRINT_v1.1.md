@@ -12,6 +12,24 @@
 
 ---
 
+## v1.1 CHANGE SUMMARY
+
+This revision preserves the v1.0 baseline and incorporates the subsequent video and AI-harness research.
+
+Major changes:
+
+1. Defines the complete AI stack and separates model, harness, execution environment, tools, knowledge, orchestration, interface, and verification.
+2. Separates the studio's internal harness-engineering roadmap from Dan Shapiro's independent Level 0–5 autonomy model.
+3. Prioritizes native Codex subagents and worktrees before third-party orchestration.
+4. Replaces the T3-dependent PStack assumption with a controlled Codex-compatible PStack pilot.
+5. Adds a measurable baseline benchmark for evaluating plugins, skills, hooks, models, and workflow changes.
+6. Establishes concise, layered AGENTS.md instructions and a canonical repository knowledge architecture.
+7. Adds deterministic guardrails, protected acceptance, holdout testing, and independent verification.
+8. Adds Codex exec, SDK, and App Server integration guidance with authentication and sandbox restrictions.
+9. Adds a project-specific gameplay laboratory and reproducible visual/game-state test harness.
+10. Adds specification discipline, agent-legible architecture, and recurring documentation/architecture maintenance.
+11. Preserves human authority over creative decisions, destructive operations, merges, releases, and production deployment.
+
 # 1. MISSION
 
 Transform the existing computer into an exceptionally capable, optimized, AI-assisted game development workstation for THE RECKLESS ELEMENTS.
