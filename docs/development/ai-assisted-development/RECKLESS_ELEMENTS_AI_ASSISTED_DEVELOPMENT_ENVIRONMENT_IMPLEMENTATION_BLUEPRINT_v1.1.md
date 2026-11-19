@@ -617,7 +617,7 @@ If the native plugin is unsupported, consider a skills-only installation as a fa
 
 Only after the checks above pass, the candidate repository documents:
 
-~~~bash
+~~~powershell
 codex plugin marketplace add michael-denyer/pstack-claude
 codex plugin add pstack@pstack-claude
 ~~~
@@ -647,19 +647,24 @@ Official documentation:
 
 https://learn.chatgpt.com/docs/hooks
 
-Investigate how to use:
+Investigate the current Codex hook events supported by the installed version:
 
 - SessionStart.
 - UserPromptSubmit.
 - PreToolUse.
+- PermissionRequest.
 - PostToolUse.
 - PreCompact.
 - PostCompact.
+- SubagentStart.
 - SubagentStop.
 - Stop.
+- Interrupt.
 - SessionEnd.
 - PreModelRequest.
 - PostModelRequest.
+
+PreModelRequest and PostModelRequest are diagnostic hooks: they can record model-request attempts and usage data when available, but they cannot block a model request or change its context. Use PermissionRequest for approval decisions where supported.
 
 Potential applications:
 
