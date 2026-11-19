@@ -643,8 +643,6 @@ Do not install multiple PStack ports, a T3-specific PStack fork, and the Codex-n
 
 ## 7.3 Codex lifecycle hooks
 
-## 7.2 Codex lifecycle hooks
-
 Official documentation:
 
 https://learn.chatgpt.com/docs/hooks
@@ -1182,8 +1180,6 @@ The default is native Codex subagents and worktrees, with T3 Code remaining opti
 
 # 13. PHASE 9 — RECKLESS ELEMENTS PRODUCTION WORKFLOW
 
-# 13. PHASE 9 — RECKLESS ELEMENTS PRODUCTION WORKFLOW
-
 Once the infrastructure is functional, integrate the development methodology.
 
 The system should support this repeatable production sequence.
@@ -1368,8 +1364,6 @@ Every major integration needs a real acceptance test.
 | Protected verification | Builder cannot modify the trusted acceptance runner or protected holdout inputs, where required |
 | Usage optimization | Measured improvement without quality degradation |
 | Maintenance loop | A read-only documentation/architecture audit produces traceable findings |
-
-Use actual outputs, versions, test counts, and retained evidence.
 
 Use actual outputs, versions, test counts, and retained evidence.
 
