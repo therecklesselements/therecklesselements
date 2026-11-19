@@ -1854,7 +1854,7 @@ Begin immediately with Phase 0.
 
 Establish the actual machine and repository baseline before installing plugins, hooks, engines, frameworks, or orchestration layers. Use native Codex capabilities first. Treat PStack as a controlled pilot after inspecting its current Codex port and Windows hook behavior. Establish a small benchmark before accepting any optimization as an improvement.
 
-Keep FATDOG in its existing Unity environment. Select engines and gameplay chassis per IP. Do not install or purchase every candidate in advance. For the first LEGO-to-Chisel field experiment, prepare an isolated SERAPHIN MACHINA encounter feasibility study; do not modify FATDOG.
+Keep FATDOG in its existing Unity environment. Select engines and gameplay chassis per IP. Do not install or purchase every candidate in advance. For the first LEGO-to-Chisel field experiment, prepare an isolated SERAPHIN MACHINA encounter feasibility study and, where both candidates are feasible, compare the same playable encounter in Unreal and Unity under matched acceptance criteria; do not modify FATDOG.
 
 Use the actual Windows computer and its local development environment, not an assumed clean installation.
 
@@ -1872,7 +1872,7 @@ If a proposed component does not materially improve the system, omit it and expl
 
 Preserve completed work when another component is blocked.
 
-Keep one accountable implementation lead and one writer per active Unity project.
+Keep one accountable implementation lead and one writer per active project checkout. For Unity, allow only one active Editor integration to write to a given checkout at a time unless concurrent operation has been explicitly validated.
 
 Use isolated worktrees for independent parallel development.
 
