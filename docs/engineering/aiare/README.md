@@ -6,6 +6,7 @@
 
 ## Documents
 
+1. **[LEGO-to-Chisel Production Doctrine v2.0](RECKLESS_ELEMENTS_LEGO_TO_CHISEL_PRODUCTION_DOCTRINE_v2.0.md)** — studio production method for original-vision-led AIARE discovery, complete-chassis reuse, Codex-led assembly, playable greybox validation, IP refinement, and evidence-based Production Kit extraction.
 1. **[AIARE Research Harness Blueprint v1.0.0](AIARE_RESEARCH_HARNESS_BLUEPRINT_v1.0.0.md)** — architecture, scope, primary-source register, installation runbook, research case format, resource controls, evidence gates, and Unity reuse-first handoff.
 2. **[Agent Contract / AGENTS.md Template v1.0.0](AGENTS_TEMPLATE_v1.0.0.md)** — a restrictive contract to install in a future private operational workspace; public template only, not an active agent.
 3. **[Installation and Acceptance Test Plan v1.0.0](ACCEPTANCE_TEST_PLAN_v1.0.0.md)** — objective gate matrix (A00–A12), evidence requirements, practical test commands, positive/negative controls, and promotion rules.
