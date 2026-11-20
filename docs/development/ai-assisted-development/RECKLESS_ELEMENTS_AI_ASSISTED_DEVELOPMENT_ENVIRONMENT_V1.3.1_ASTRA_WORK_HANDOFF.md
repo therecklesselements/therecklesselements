@@ -213,9 +213,76 @@ Do not assume that a registered plugin is installed, that a package is a CLI, th
 
 Do not change anything during discovery.
 
-### Phase D — minimum viable implementation plan
+### Phase D — independent optimization, research and architecture improvement
 
-Design the smallest reliable core for the active FATDOG workflow:
+This is a mandatory design-improvement stage, not an optional brainstorming exercise. Use the strongest available Astra reasoning capability appropriate to the task. Reserve high/very-high reasoning effort for architecture, research synthesis, red-team challenge, and final verification; do not waste it on routine low-risk operations.
+
+Do not treat v1.3.1 as presumptively optimal. Treat it as a strong candidate that must earn acceptance. Independently determine whether a materially better, simpler, safer, more reliable, more maintainable, or more economical solution exists.
+
+Challenge the complete proposed system, including:
+
+- The underlying development philosophy and production sequence, while preserving explicit creator decisions and project authority.
+- The separation and interaction of HYPEROP, AIARE, LEGO-to-Chisel, project constitutions, workspace instructions, skills, and operating procedures.
+- The proposed architecture, toolchain, integrations, agent roles, orchestration, context strategy, and validation model.
+- The minimum viable core versus optional capabilities; identify missing essentials and unnecessary components.
+- The actual ChatGPT Work workspace, Codex environment, Windows workstation, Unity workflow, GitHub architecture, and production handoffs.
+- Cost, usage consumption, latency, reliability, security, privacy, licensing, compatibility, maintenance, recovery, and creator workload.
+- Failure modes, hidden dependencies, single points of failure, conflicting instructions, brittle automation, and unnecessary manual steps.
+
+Conduct targeted current research where it can materially improve a decision. Prefer primary sources, official documentation, source repositories, release notes, compatibility matrices, and reproducible technical evidence. Check current claims rather than trusting stale citations or previous model output. Clearly label source-derived facts, current verified facts, inference, hypotheses, and recommendations.
+
+For each material opportunity, compare the current proposal with the alternative. State the capability gap or problem, evidence, expected measurable benefit, trade-offs, cost/usage, security implications, maintenance burden, migration effort, rollback path, and recommendation.
+
+Use a practical optimization scorecard: creator effort removed; end-to-end reliability; implementation and verification speed; quality; context/usage efficiency; total cost; security; maintainability; recoverability; and cognitive/administrative overhead.
+
+Do not optimize for novelty, maximum autonomy, agent count, tool count, abstraction, or theoretical sophistication. Prefer native and already-verified capabilities. Add a component only when it solves a demonstrated problem better than the simplest available alternative. A simpler design that achieves the same result is an improvement.
+
+Preserve all non-negotiable creator decisions and project protections. Do not change the FATDOG-first sequence, start queued-project implementation, weaken project-specific approvals, authorize paid services, or turn deferred experiments into prerequisites.
+
+Produce an **Optimization Delta Report** showing:
+1. What should remain unchanged and why.
+2. What should be removed, simplified, consolidated, or deferred.
+3. What should be added or replaced and why.
+4. What new opportunities or risks were discovered.
+5. The measurable expected improvement and evidence for each accepted proposal.
+6. The items that should not be changed because evidence is insufficient.
+
+Do not edit canonical files, install tools, alter the workspace, or change the workstation during this phase. Proposals remain proposals until reviewed and approved.
+
+### Phase E — independent second-pass verification and adversarial validation
+
+After producing the improved design, conduct a genuinely separate verification pass. Do not merely reread the same conclusions and confirm them.
+
+Recheck the optimized architecture against:
+
+- The original workshop DOCX and all governing source documents.
+- v1.2 and published v1.3, the v1.3.1 candidate, HYPEROP v1.2, AIARE v1.0, and LEGO-to-Chisel v2.0.
+- Current project constitutions, specifications, runbooks, decisions, and verified repository state.
+- The actual Master RE Work workspace and read-only machine inventory.
+- Current official product documentation, supported versions, platform requirements, licensing, security guidance, and release status for every selected component.
+- The creator's explicit production sequence, account/workspace boundary, approval requirements, cost restrictions, and project-specific usage controls.
+
+Run a requirements-to-architecture traceability check: every mandatory requirement must map to an owner/component, a concrete operation, an acceptance test, retained evidence, and a rollback or recovery method. Every proposed component must map back to a demonstrated requirement. Identify orphan tools, uncovered requirements, duplicated responsibilities, circular dependencies, and conflicting instructions.
+
+Red-team realistic failure scenarios, including unavailable services, expired authentication, missing integrations, Unity bridge failure, corrupted or dirty working trees, incompatible versions, quota exhaustion, failed tests, interrupted work, and loss of workspace context. Verify that the design fails safely and preserves recoverability.
+
+Where available and useful, use a fresh review context or independent reviewer/subagent to challenge the optimized proposal. Keep one accountable integrator and do not permit parallel writers to modify shared project state. An independent review must not be treated as proof unless its claims and evidence are checked.
+
+Record each finding as VERIFIED, FAILED, BLOCKED, UNVERIFIED, or NOT_APPLICABLE. Correct material defects and repeat the affected checks. Do not create endless review loops: complete at least one full independent second pass, then repeat only the affected checks until no known material defect remains or a specific blocker is documented.
+
+Produce a **Second-Pass Verification Report** containing:
+- The exact items checked and evidence consulted.
+- Defects found and corrections made to the proposed design.
+- Compatibility, licensing, cost, security, and operational findings.
+- Requirements coverage and acceptance-test mapping.
+- Remaining uncertainty, blocked checks, and residual risks.
+- A clear decision: READY FOR CREATOR APPROVAL, NOT READY, or BLOCKED.
+
+No full setup or implementation begins until Phases A–E are complete, the material findings are resolved or explicitly disclosed, and the creator approves the final architecture and implementation plan.
+
+### Phase F — final minimum viable architecture and implementation plan
+
+Using the improved and independently checked design, define the smallest reliable production-critical core for the active FATDOG workflow:
 
 1. Existing ChatGPT/Codex access and approved authentication.
 2. Verified Windows sandbox and permissions.
@@ -228,11 +295,11 @@ Treat PStack, optimAIzr, CodexZero, Context7, Playwright, Promptfoo, AIARE local
 
 For every optional candidate, state the specific capability gap, cost/usage, permissions, compatibility, maintenance burden, measurable benefit, and rollback path. If no demonstrated gap exists, omit it.
 
-### Phase E — Master RECKLESS ELEMENTS Workspace and production integration
+### Phase G — Master RECKLESS ELEMENTS Workspace and production integration
 
 Conduct a complete audit of the existing Master RECKLESS ELEMENTS Work workspace before proposing changes. Determine its actual structure, current instructions, project files and knowledge, connected repositories, reusable skills, integrations, and existing production workflows. Do not assume that the workspace is empty or that earlier recommendations were implemented.
 
-Design and, after approval, implement a coherent layered workspace architecture. Determine how the accepted method should be represented in:
+Design and, after approval, implement a coherent layered workspace architecture. Determine how the accepted and independently optimized method should be represented in:
 
 - Master studio/workspace instructions and concise source-of-truth navigation.
 - Studio-level development and production doctrine.
@@ -252,22 +319,25 @@ Inspect and account for the actual ChatGPT Work workspace structure and availabl
 
 During FATDOG, queued-project preparation must remain non-disruptive and separate from implementation. Do not begin queued-project implementation merely because its workspace documentation is being organized.
 
-### Phase F — approval and execution
+### Phase H — approval and staged execution
 
-After Phases A–E, present:
+After Phases A–G, present the complete evidence-backed decision package:
 
-1. Source audit and conflict ledger.
+1. Source audit and conflict/authority ledger.
 2. v1.3.1 red-team findings and exact corrections.
-3. Machine and repository inventory.
-4. Minimum core configuration proposal.
-5. Optional capability recommendations, with evidence.
-6. Exact workspace/project document changes proposed.
-7. Safe execution order, checkpoints, and rollback plan.
-8. Acceptance tests and expected evidence.
+3. Machine, Master Work workspace, and repository inventories.
+4. Optimization Delta Report comparing the original and improved designs.
+5. Second-Pass Verification Report and explicit readiness decision.
+6. Final minimum core architecture and optional capability matrix.
+7. Exact Master Workspace and project/document changes proposed.
+8. Safe execution order, approvals, checkpoints, rollback, and recovery plan.
+9. Acceptance tests, expected evidence, and measurable success criteria.
 
-Obtain creator approval for the implementation plan before workstation installations, project modifications, paid services, subscription changes, engine changes, canonical instruction replacements, or other protected operations.
+Do not present the original v1.3.1 proposal as the final recommendation if the optimization and verification work identifies a better supported design. Show the original-to-improved changes clearly so the creator can make an informed approval decision.
 
-After approval, execute the approved work in small verified stages. Do not stop at recommendations when an approved and available action can be carried out. For every stage, make the approved change, verify the actual result, record evidence, and update the relevant GitHub documentation on the dedicated integration branch. Do not merge to `main` without separate approval. Do not repeat setup scans or blind retries. Preserve completed work if another component is blocked.
+Obtain creator approval for the final optimized implementation plan before workstation installations, project modifications, paid services, subscription changes, engine changes, canonical instruction replacements, or other protected operations.
+
+After approval, execute the approved work in small verified stages. Do not stop at recommendations when an approved and available action can be carried out. For every stage, make the approved change, verify the actual result, record evidence, and update the relevant GitHub documentation on the dedicated integration branch. Do not merge to main without separate approval. Do not repeat setup scans or blind retries. Preserve completed work if another component is blocked.
 
 ## 6. Non-negotiable restrictions
 
@@ -291,16 +361,17 @@ After approval, execute the approved work in small verified stages. Do not stop 
 1. **Source Audit Report** — exact sources read, coverage, provenance, and gaps.
 2. **Conflict and Authority Ledger** — source disagreements and the controlling decision for each.
 3. **v1.3.1 Red-Team Review** — accepted, rejected, and revised amendments with reasons.
-4. **Machine Inventory** — actual hardware, software, versions, configuration, and functional status.
-5. **Repository Inventory** — branches, commits, dirty states, project instructions, current milestones, and preservation risks.
-6. **Minimum Core Architecture** — only the components needed for reliable active production.
-7. **Optional Capability Matrix** — benefit, evidence, cost/usage, risk, compatibility, priority, and decision.
-8. **Master Workspace Audit and Architecture** — actual current workspace structure, authority map, source-of-truth design, and gap analysis.
-9. **Workspace and Production Integration Plan** — exact studio/project instructions, skills, hooks, MCP, runbook, and workflow changes.
-10. **Staged Implementation and GitHub Record** — ordered operations, approvals, dedicated integration branch, commits, checkpoints, and rollback.
-11. **Verification Plan and Receipts** — exact commands, non-zero test counts, runtime evidence, build evidence, and actual results.
-12. **Production Transition Plan** — FATDOG Beta acceptance, Gulf to Bay readiness gate, then Aeregul, then BURNZA.
-13. **Final Handoff** — what was changed, what remains deferred, blockers, GitHub links, and the next authorized action.
+4. **Machine, Workspace, and Repository Inventory** — actual hardware, software, versions, configuration, workspace structure, repository branches, commits, dirty states, project instructions, current milestones, and preservation risks.
+5. **Optimization Delta Report** — evidence-backed comparison of the original proposal with Astra's improved design, including retained, removed, simplified, added, replaced, and deferred elements.
+6. **Second-Pass Verification Report** — independent adversarial review, requirements traceability, compatibility/security/cost checks, failure scenarios, residual risks, and explicit readiness decision.
+7. **Final Minimum Core Architecture** — only the components needed for reliable active production, incorporating approved optimizations.
+8. **Optional Capability Matrix** — benefit, evidence, cost/usage, risk, compatibility, maintenance burden, priority, and decision.
+9. **Master Workspace Audit and Architecture** — actual current workspace structure, authority map, source-of-truth design, and gap analysis.
+10. **Workspace and Production Integration Plan** — exact studio/project instructions, skills, hooks, MCP, runbook, and workflow changes.
+11. **Staged Implementation and GitHub Record** — ordered operations, approvals, dedicated integration branch, commits, checkpoints, and rollback.
+12. **Verification Plan and Receipts** — exact commands, non-zero test counts, runtime evidence, build evidence, and actual results.
+13. **Production Transition Plan** — FATDOG Beta acceptance, Gulf to Bay readiness gate, then Aeregul, then BURNZA.
+14. **Final Handoff** — what was changed, what remains deferred, blockers, GitHub links, and the next authorized action.
 
 ## 8. GitHub recording and final delivery
 
@@ -319,6 +390,6 @@ Never report a GitHub change as completed until the exact file and commit can be
 
 Success is not the number of tools installed, the number of agents running, or a theoretical autonomy level.
 
-Success is a safe, maintainable, measured development environment that lets the creator direct original games while Codex performs the largest reliable share of technical implementation, assembly, testing, and documentation—without compromising the approved production sequence or FATDOG's delivery.
+Success is a safe, maintainable, measured, and independently challenged development environment that has been improved beyond the initial proposal wherever evidence supports doing so. The final architecture must demonstrably reduce creator effort and administrative overhead, improve reliability and production quality, preserve security and recoverability, and let the creator direct original games while Codex performs the largest reliable share of technical implementation, assembly, testing, and documentation—without compromising the approved production sequence or FATDOG's delivery.
 
 **Creator directs the vision → HYPEROP governs the process → AIARE discovers reusable functionality → Codex assembles and adapts it → independent verification proves it works → the creator directs the final experience.**
