@@ -30,6 +30,7 @@ Major changes:
 8. Preserves FATDOG's project-specific model, quota, installation-approval, and milestone controls.
 9. Prohibits subscription upgrades, new AI subscriptions, and separately billed API inference from being implied by this blueprint.
 10. Establishes Astra's independent Work-chat review as the gate before the draft is applied to the workstation, repositories, or production instructions.
+11. Requires Astra to independently optimize and improve the candidate, then complete a separate adversarial second-pass verification before presenting the final architecture for creator approval and setup.
 
 v1.3 remains the published baseline. This candidate must pass Astra's source review and the creator's approval before becoming authoritative.
 
@@ -1986,7 +1987,13 @@ During FATDOG production, permit only non-disruptive preparation of queued proje
 
 The full SERAPHIN MACHINA Unreal-versus-Unity encounter experiment is deferred until FATDOG Beta or separate explicit creator approval. Before then, only bounded neutral disposable-project tests required to validate the minimum workstation are permitted. Do not modify FATDOG to test tools.
 
-The v1.3.1 candidate must be reviewed in a dedicated ChatGPT Work chat by Astra. Astra must reopen the original workshop, v1.3, HYPEROP v1.2, AIARE v1.0, LEGO-to-Chisel v2.0, and the current project instructions and runbooks. Astra must distinguish source-derived requirements, current user decisions, technical findings, and proposals. The review must include the actual Windows machine and repository baseline before recommending changes. No implementation action is authorized merely by the existence of this draft.
+The v1.3.1 candidate must be reviewed in a dedicated ChatGPT Work chat by Astra. Astra must reopen the original workshop, v1.3, HYPEROP v1.2, AIARE v1.0, LEGO-to-Chisel v2.0, and the current project instructions and runbooks. Astra must distinguish source-derived requirements, current user decisions, technical findings, and proposals. The review must include the actual Windows machine, Master RE Work workspace, and repository baseline before recommending changes. No implementation action is authorized merely by the existence of this draft.
+
+**Mandatory Astra optimization and independent verification gate:** Astra must not merely audit and implement v1.3.1 as written or presume that this candidate is optimal. Use the strongest available Astra reasoning capability appropriate to the work, reserving high/very-high reasoning effort for architecture analysis, research synthesis, adversarial review, and final verification. Independently challenge the assumptions, architecture, tools, integrations, production workflows, security model, cost/usage, reliability, maintainability, and creator workload. Research materially better alternatives using current primary sources and reproducible evidence. Improve the proposed design wherever a simpler, safer, more effective, more reliable, or more economical solution is supported.
+
+Astra must produce an Optimization Delta Report that explains what to retain, remove, simplify, consolidate, add, replace, or defer, with evidence, measurable benefits, trade-offs, cost, risks, and rollback. It must then perform a genuinely separate second-pass verification against the original sources, current official documentation, actual machine/workspace/repository state, project constraints, requirements traceability, and realistic failure scenarios. Correct material defects and repeat affected checks. Record unresolved uncertainty honestly. Do not create endless review loops.
+
+**No full setup or implementation begins before this optimization and second-pass verification are complete and the creator has approved the final improved architecture and staged implementation plan.** The original candidate is the starting point for improvement, not a ceiling or a presumed final answer.
 
 Use the actual Windows computer and its local development environment, not an assumed clean installation.
 
