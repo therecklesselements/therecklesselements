@@ -12,3 +12,5 @@ The founder authorized the studio workspace setup. The coordination workspace an
 | Production acceptance | Each game retains its own milestone evidence. The creator owns Beta readiness, production transitions and release. |
 
 [Published development philosophy](../development/hyperop/HYPEROP_MASTER_DEVELOPMENT_PHILOSOPHY_v1.2.md) · [Published technical baseline](../development/ai-assisted-development/RECKLESS_ELEMENTS_AI_ASSISTED_DEVELOPMENT_ENVIRONMENT_IMPLEMENTATION_BLUEPRINT_v1.3.md)
+
+[Studio tooling verification](TOOLING_VERIFICATION.md) records the subsequent tool qualification and workshop catalog.
