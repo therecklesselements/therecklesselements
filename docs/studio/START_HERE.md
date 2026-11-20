@@ -4,6 +4,8 @@ J. A. Wood directs THE RECKLESS ELEMENTS. The studio develops original games and
 
 ## Where to start
 
+Use the [Master Studio Workshop Engine](WORKSHOP_ENGINE.md) for the request preflight, tool selection, learning process and tested enforcement boundaries.
+
 - Use the [studio overview](../../README.md) for publicly presented work.
 - Use [HYPEROP v1.2](../development/hyperop/HYPEROP_MASTER_DEVELOPMENT_PHILOSOPHY_v1.2.md) for studio development philosophy.
 - Use the [published environment blueprint v1.3](../development/ai-assisted-development/RECKLESS_ELEMENTS_AI_ASSISTED_DEVELOPMENT_ENVIRONMENT_IMPLEMENTATION_BLUEPRINT_v1.3.md) for the technical baseline.
