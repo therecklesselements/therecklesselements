@@ -1,27 +1,52 @@
 # RECKLESS ELEMENTS
 # AI-ASSISTED DEVELOPMENT ENVIRONMENT v1.3.1
-## Astra Work-Chat Review & Implementation Handoff
+## Master RECKLESS ELEMENTS Workspace & Production Integration — Astra Work-Chat Handoff
 
 **Date:** November 19, 2026  
 **Status:** Prepared for independent Astra review; not an implementation authorization  
-**Target:** ChatGPT Work chat using the actual Windows workstation and connected RECKLESS ELEMENTS repositories  
+**Target:** ChatGPT Work chat responsible for the independent review and the approved Master RECKLESS ELEMENTS Workspace and production integration, using the actual Windows workstation and connected RECKLESS ELEMENTS repositories  
 **Related candidate:** [AI-Assisted Development Environment Implementation Blueprint v1.3.1](RECKLESS_ELEMENTS_AI_ASSISTED_DEVELOPMENT_ENVIRONMENT_IMPLEMENTATION_BLUEPRINT_v1.3.1.md)
 
 ---
 
-## 1. Mission
+## 1. GitHub source of truth and review branch
 
-Conduct an independent, source-grounded review of the RECKLESS ELEMENTS development-method research and the proposed v1.3.1 amendments. Then determine the smallest, safest, most effective way to implement the accepted knowledge into:
+**Canonical RECKLESS ELEMENTS GitHub repository:**  
+https://github.com/therecklesselements/therecklesselements
 
-1. The actual Windows development workstation.
-2. The Codex/ChatGPT development environment and its instructions, skills, integrations, and guardrails.
-3. The canonical RECKLESS ELEMENTS studio development documentation.
-4. The active FATDOG project workflow.
-5. The preparation and future transition workflow for Gulf to Bay, Aeregul, and BURNZA.
+**Review branch:**  
+https://github.com/therecklesselements/therecklesselements/tree/draft/v1.3.1-astra-review-2026-11-19
+
+**v1.3.1 implementation blueprint:**  
+https://github.com/therecklesselements/therecklesselements/blob/draft/v1.3.1-astra-review-2026-11-19/docs/development/ai-assisted-development/RECKLESS_ELEMENTS_AI_ASSISTED_DEVELOPMENT_ENVIRONMENT_IMPLEMENTATION_BLUEPRINT_v1.3.1.md
+
+**This Work-chat handoff:**  
+https://github.com/therecklesselements/therecklesselements/blob/draft/v1.3.1-astra-review-2026-11-19/docs/development/ai-assisted-development/RECKLESS_ELEMENTS_AI_ASSISTED_DEVELOPMENT_ENVIRONMENT_V1.3.1_ASTRA_WORK_HANDOFF.md
+
+The two documents above have been committed to the review branch. The published v1.3 baseline on `main` remains unchanged.
+
+Use this repository as the canonical GitHub source for the review and subsequent approved studio-documentation integration. Keep the current branch as a review branch. After the review and creator approval, create a separate, clearly named integration branch from the then-current `main` for approved Master Workspace and production changes. Do not merge v1.3.1, replace v1.3, or modify canonical production instructions until the creator has approved the exact changes.
+
+All approved durable outputs from the Master Workspace and production integration—including studio/project instructions, architecture decisions, reusable procedures, implementation records, verification receipts, and handoffs—must be recorded in the appropriate GitHub repository locations with clear commit history. Do not record secrets, credentials, private tokens, or machine-sensitive values.
+
+## 2. Mission
+
+Conduct an independent, source-grounded review of the RECKLESS ELEMENTS development-method research and the proposed v1.3.1 amendments. Then determine the smallest, safest, most effective way to implement the accepted knowledge into the **Master RECKLESS ELEMENTS ChatGPT Work workspace and the studio's actual production environment**.
+
+The Work chat is responsible for the full Master Workspace and production integration—not merely a document review or a recommendations report.
+
+The integration scope includes:
+
+1. The Master RECKLESS ELEMENTS ChatGPT Work workspace: project/workspace instructions, project knowledge and files, source-of-truth navigation, connected capabilities, reusable skills, and operating conventions.
+2. The actual Windows development workstation and its Codex environment.
+3. The canonical RECKLESS ELEMENTS GitHub repository and studio development documentation.
+4. The active FATDOG project workflow and its project-specific instructions.
+5. The controlled preparation and future transition workflow for Gulf to Bay, Aeregul, and BURNZA.
+6. The shared production architecture: how HYPEROP, AIARE, LEGO-to-Chisel, project constitutions, skills, validation procedures, and production handoffs work together without duplication or conflicting authority.
 
 The objective is a production-capable, creator-directed development environment—not the maximum number of installed AI tools.
 
-Astra must independently inspect the source material and actual environment. This handoff is a navigation and decision aid, not a substitute for source review.
+Astra must independently inspect the source material, current Master Work workspace, actual workstation, and connected repositories. This handoff is a navigation and decision aid, not a substitute for source review.
 
 ## 2. Governing authority
 
@@ -58,8 +83,8 @@ Verified source structure: 514 Word paragraphs total, 475 non-empty paragraphs.
 
 Important source distinction:
 
-- Paragraphs 87–97 recommend using FATDOG's existing working prototype to prove a data-driven interaction and designer autonomy without redesigning or diverting the project.
-- Paragraphs 450–475 recommend a separate SERAPHIN MACHINA encounter as an Unreal/Unity field experiment, without changing FATDOG.
+- Paragraphs 91–101 recommend using FATDOG's existing working prototype to audit its reusable mechanics, implement one data-driven interaction, and prove designer autonomy without redesigning or diverting the project.
+- Paragraphs 487–503 recommend a separate SERAPHIN MACHINA encounter as a controlled Unreal Engine 5.8 Third Person Combat field experiment, without changing FATDOG. The broader earlier comparison discussion appears in paragraphs 198–220 and 312–316.
 
 v1.3 formalized the SERAPHIN comparison. The current production priority now defers the full comparison until after FATDOG Beta or separate explicit creator approval. Before then, only bounded neutral disposable-project tests needed to validate the minimum workstation are permitted.
 
@@ -82,7 +107,7 @@ Do not merge it or replace v1.3 during the review.
 ### C. Governing development doctrine
 
 - [HYPEROP Master Development Philosophy v1.2](https://github.com/therecklesselements/therecklesselements/blob/main/docs/development/hyperop/HYPEROP_MASTER_DEVELOPMENT_PHILOSOPHY_v1.2.md)
-- [AIARE README](https://github.com/therecklesselements/therecklesselements/tree/main/docs/engineering/aiare)
+- [AIARE README](https://github.com/therecklesselements/therecklesselements/blob/main/docs/engineering/aiare/README.md)
 - [AIARE Research Harness Blueprint v1.0.0](https://github.com/therecklesselements/therecklesselements/blob/main/docs/engineering/aiare/AIARE_RESEARCH_HARNESS_BLUEPRINT_v1.0.0.md)
 - [AIARE Acceptance Test Plan v1.0.0](https://github.com/therecklesselements/therecklesselements/blob/main/docs/engineering/aiare/ACCEPTANCE_TEST_PLAN_v1.0.0.md)
 - [LEGO-to-Chisel Production Doctrine v2.0](https://github.com/therecklesselements/therecklesselements/blob/main/docs/engineering/aiare/RECKLESS_ELEMENTS_LEGO_TO_CHISEL_PRODUCTION_DOCTRINE_v2.0.md)
@@ -195,20 +220,29 @@ Treat PStack, optimAIzr, CodexZero, Context7, Playwright, Promptfoo, AIARE local
 
 For every optional candidate, state the specific capability gap, cost/usage, permissions, compatibility, maintenance burden, measurable benefit, and rollback path. If no demonstrated gap exists, omit it.
 
-### Phase E — workspace and production integration plan
+### Phase E — Master RECKLESS ELEMENTS Workspace and production integration
 
-Determine how the accepted method should be represented in:
+Conduct a complete audit of the existing Master RECKLESS ELEMENTS Work workspace before proposing changes. Determine its actual structure, current instructions, project files and knowledge, connected repositories, reusable skills, integrations, and existing production workflows. Do not assume that the workspace is empty or that earlier recommendations were implemented.
 
-- Studio-level instructions and concise AGENTS.md navigation.
-- FATDOG project instructions and milestone workflow.
-- Aeregul project instructions, preserving its current state until its turn.
-- Gulf to Bay pre-production and rights/collaboration readiness materials.
+Design and, after approval, implement a coherent layered workspace architecture. Determine how the accepted method should be represented in:
+
+- Master studio/workspace instructions and concise source-of-truth navigation.
+- Studio-level development and production doctrine.
+- HYPEROP governance and methodology.
+- AIARE research and functional-discovery procedures.
+- LEGO-to-Chisel assembly and refinement workflow.
+- Reusable skills, playbooks, task procedures, validation methods, and handoff templates.
+- FATDOG project instructions, current milestone workflow, and Unity runbook.
+- Aeregul project instructions and current state, preserving its evidence until its production turn.
+- Gulf to Bay pre-production, collaboration, ownership, rights, and commercial-use readiness.
 - BURNZA pre-production preparation.
-- Shared reusable skills, playbooks, verification procedures, and decision records.
+- GitHub documentation, decision records, implementation receipts, and project navigation.
 
-Do not create duplicate or conflicting instruction systems. Keep project-specific authority local. Use progressive disclosure and short navigation files rather than oversized global prompts.
+The goal is one intelligible operating system with clear authority boundaries—not duplicated prompts or competing instruction sets. Keep project-specific authority local. Use progressive disclosure, concise navigation, and linked detailed references rather than oversized global instructions.
 
-During FATDOG, queued-project preparation must remain non-disruptive and separate from implementation.
+Inspect and account for the actual ChatGPT Work workspace structure and available controls. Distinguish changes to the ChatGPT workspace from changes to the Windows workstation and GitHub. State which actions can be performed directly, which require the creator, and which are unavailable.
+
+During FATDOG, queued-project preparation must remain non-disruptive and separate from implementation. Do not begin queued-project implementation merely because its workspace documentation is being organized.
 
 ### Phase F — approval and execution
 
@@ -223,9 +257,9 @@ After Phases A–E, present:
 7. Safe execution order, checkpoints, and rollback plan.
 8. Acceptance tests and expected evidence.
 
-Obtain creator approval for the implementation plan before workstation installations, project modifications, paid services, subscription changes, engine changes, or other protected operations.
+Obtain creator approval for the implementation plan before workstation installations, project modifications, paid services, subscription changes, engine changes, canonical instruction replacements, or other protected operations.
 
-After approval, execute the approved work in small verified stages. Do not repeat setup scans or blind retries. Preserve completed work if another component is blocked.
+After approval, execute the approved work in small verified stages. Do not stop at recommendations when an approved and available action can be carried out. For every stage, make the approved change, verify the actual result, record evidence, and update the relevant GitHub documentation on the dedicated integration branch. Do not merge to `main` without separate approval. Do not repeat setup scans or blind retries. Preserve completed work if another component is blocked.
 
 ## 5. Non-negotiable restrictions
 
@@ -253,13 +287,27 @@ After approval, execute the approved work in small verified stages. Do not repea
 5. **Repository Inventory** — branches, commits, dirty states, project instructions, current milestones, and preservation risks.
 6. **Minimum Core Architecture** — only the components needed for reliable active production.
 7. **Optional Capability Matrix** — benefit, evidence, cost/usage, risk, compatibility, priority, and decision.
-8. **Workspace Integration Plan** — exact studio and project instructions, skills, hooks, MCP, and runbook changes.
-9. **Staged Implementation Plan** — ordered operations, approvals, checkpoints, and rollback.
-10. **Verification Plan and Receipts** — exact commands, non-zero test counts, runtime evidence, build evidence, and actual results.
-11. **Production Transition Plan** — FATDOG Beta acceptance, Gulf to Bay readiness gate, then Aeregul, then BURNZA.
-12. **Final Handoff** — what was changed, what remains deferred, blockers, and the next authorized action.
+8. **Master Workspace Audit and Architecture** — actual current workspace structure, authority map, source-of-truth design, and gap analysis.
+9. **Workspace and Production Integration Plan** — exact studio/project instructions, skills, hooks, MCP, runbook, and workflow changes.
+10. **Staged Implementation and GitHub Record** — ordered operations, approvals, dedicated integration branch, commits, checkpoints, and rollback.
+11. **Verification Plan and Receipts** — exact commands, non-zero test counts, runtime evidence, build evidence, and actual results.
+12. **Production Transition Plan** — FATDOG Beta acceptance, Gulf to Bay readiness gate, then Aeregul, then BURNZA.
+13. **Final Handoff** — what was changed, what remains deferred, blockers, GitHub links, and the next authorized action.
 
-## 7. Definition of success
+## 7. GitHub recording and final delivery
+
+The final Work-chat delivery must include:
+
+- The canonical repository address: https://github.com/therecklesselements/therecklesselements
+- The review branch and the two review documents.
+- The dedicated integration branch created after approval.
+- Direct links to every changed canonical instruction, doctrine, project document, skill, workflow, or handoff.
+- Commit identifiers and a concise record of what each commit changed.
+- A clear distinction between committed changes, workspace-only changes, workstation changes, deferred work, and actions requiring manual creator involvement.
+
+Never report a GitHub change as completed until the exact file and commit can be reopened and verified. Keep the v1.3.1 review branch intact as provenance. Do not merge or delete it without creator approval.
+
+## 8. Definition of success
 
 Success is not the number of tools installed, the number of agents running, or a theoretical autonomy level.
 
