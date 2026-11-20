@@ -4,6 +4,8 @@
 
 **Date:** November 19, 2026  
 **Status:** Draft candidate for Astra review and creator approval — v1.3 remains the published authoritative baseline until this revision is accepted  
+**Master Workspace & production integration handoff:** [Astra Work-chat handoff](https://github.com/therecklesselements/therecklesselements/blob/draft/v1.3.1-astra-review-2026-11-19/docs/development/ai-assisted-development/RECKLESS_ELEMENTS_AI_ASSISTED_DEVELOPMENT_ENVIRONMENT_V1.3.1_ASTRA_WORK_HANDOFF.md)  
+**Canonical GitHub repository:** https://github.com/therecklesselements/therecklesselements  
 **Execution environment:** Windows desktop  
 **Primary development platform:** ChatGPT Work + Codex; project-specific engine selection (Unity remains FATDOG's engine)  
 **Operating philosophy:** HYPEROP v1.2  
