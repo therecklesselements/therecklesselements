@@ -125,8 +125,11 @@ Preserve the LEGO-to-Chisel principle: **The original creative vision comes firs
 **FATDOG**
 - [Repository](https://github.com/therecklesselements/FATDOG)
 - [AGENTS.md](https://github.com/therecklesselements/FATDOG/blob/main/AGENTS.md)
+- [Project Constitution](https://github.com/therecklesselements/FATDOG/blob/main/Docs/FATDOG_PROJECT_CONSTITUTION.md)
+- [Prototype A Specification](https://github.com/therecklesselements/FATDOG/blob/main/Docs/PROTOTYPE_A_SPEC.md)
 - [Unity Runbook](https://github.com/therecklesselements/FATDOG/blob/main/Docs/UNITY_RUNBOOK.md)
 - [Decision Log](https://github.com/therecklesselements/FATDOG/blob/main/Docs/DECISIONS.md)
+- [Work Log and usage receipts](https://github.com/therecklesselements/FATDOG/blob/main/Docs/WORK_LOG.md)
 
 The currently inspected FATDOG instructions still contain Prototype A-specific scope and constraints. Astra must inspect the current milestone specifications, current branch, latest accepted evidence, and actual working tree before translating the creator's Alpha → final implementation/polish → Beta direction into project-level instructions. Do not assume a prototype receipt proves Alpha or Beta acceptance.
 
