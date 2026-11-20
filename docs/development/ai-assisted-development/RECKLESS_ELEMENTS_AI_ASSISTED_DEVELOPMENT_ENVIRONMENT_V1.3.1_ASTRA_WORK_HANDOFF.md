@@ -4,7 +4,7 @@
 
 **Date:** November 19, 2026  
 **Status:** Prepared for independent Astra review; not an implementation authorization  
-**Target:** ChatGPT Work chat responsible for the independent review and the approved Master RECKLESS ELEMENTS Workspace and production integration, using the actual Windows workstation and connected RECKLESS ELEMENTS repositories  
+**Target:** ChatGPT Work chat in the dedicated RECKLESS ELEMENTS Studio ChatGPT account and its Master RECKLESS ELEMENTS workspace, responsible for the independent review and approved workspace/production integration using the actual Windows workstation and connected repositories  
 **Related candidate:** [AI-Assisted Development Environment Implementation Blueprint v1.3.1](RECKLESS_ELEMENTS_AI_ASSISTED_DEVELOPMENT_ENVIRONMENT_IMPLEMENTATION_BLUEPRINT_v1.3.1.md)
 
 ---
@@ -24,6 +24,8 @@ https://github.com/therecklesselements/therecklesselements/blob/draft/v1.3.1-ast
 https://github.com/therecklesselements/therecklesselements/blob/draft/v1.3.1-astra-review-2026-11-19/docs/development/ai-assisted-development/RECKLESS_ELEMENTS_AI_ASSISTED_DEVELOPMENT_ENVIRONMENT_V1.3.1_ASTRA_WORK_HANDOFF.md
 
 The two documents above have been committed to the review branch. The published v1.3 baseline on `main` remains unchanged.
+
+**Account/workspace boundary:** Run this handoff in the dedicated RECKLESS ELEMENTS Studio ChatGPT account and its Master RECKLESS ELEMENTS Work workspace—not in the personal ChatGPT workspace used to originate the research. Preserve that separation. Inspect the actual studio workspace and its connected resources rather than assuming that personal-account chats, attachments, or settings transfer between accounts.
 
 Use this repository as the canonical GitHub source for the review and subsequent approved studio-documentation integration. Keep the current branch as a review branch. After the review and creator approval, create a separate, clearly named integration branch from the then-current `main` for approved Master Workspace and production changes. Do not merge v1.3.1, replace v1.3, or modify canonical production instructions until the creator has approved the exact changes.
 
@@ -75,7 +77,9 @@ During FATDOG production, non-disruptive preparation is permitted: source recove
 
 ### A. Original development-method workshop
 
-**Attached source:** `Workshop on Refining the development method.docx`
+**Original source:** `Workshop on Refining the development method.docx`
+
+The DOCX is attached to the originating conversation but is not committed to this GitHub review branch. Because the target Work chat is in the separate RECKLESS ELEMENTS Studio account, attach the original DOCX directly to that Work chat or locate the exact canonical copy in its connected Drive/project files. Do not substitute this handoff's description, paragraph references, or a prior summary for reading the original document.
 
 This is the primary source for the original Sandfall-inspired method, Unity/Godot/Unreal assessment, complete-chassis reuse, LEGO-to-Chisel workflow, and proposed field experiments.
 
@@ -188,7 +192,7 @@ Return exact proposed corrections and their source/evidence. Do not silently rew
 
 ### Phase C — actual machine and repository discovery
 
-Use the actual Windows workstation and connected repositories.
+Use the actual Windows workstation, the dedicated RE Studio ChatGPT Work workspace, and connected repositories.
 
 This phase is read-only:
 
@@ -196,6 +200,7 @@ This phase is read-only:
 - Installed software and exact versions.
 - Git/GitHub state and all relevant working trees.
 - ChatGPT/Codex installation and authentication mode, without exposing secrets.
+- The Master RE Work workspace's actual project/workspace instructions, project knowledge, attached files, source navigation, connected apps, reusable skills, and existing workflow conventions.
 - Codex configuration, sandbox, permissions, plugins, skills, hooks, and MCP registrations.
 - Unity Hub, Editor, package manifest/lock, CLI, Pipeline, and actual Editor bridge state.
 - Current project instructions and project-specific toolchain constraints.
