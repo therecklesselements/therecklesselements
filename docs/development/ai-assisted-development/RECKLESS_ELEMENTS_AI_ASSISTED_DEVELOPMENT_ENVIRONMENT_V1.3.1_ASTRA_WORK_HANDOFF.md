@@ -50,7 +50,7 @@ The objective is a production-capable, creator-directed development environment�
 
 Astra must independently inspect the source material, current Master Work workspace, actual workstation, and connected repositories. This handoff is a navigation and decision aid, not a substitute for source review.
 
-## 2. Governing authority
+## 3. Governing authority
 
 Apply this order when sources conflict:
 
@@ -73,7 +73,7 @@ FATDOG is the exclusive active game-production priority until the creator accept
 
 During FATDOG production, non-disruptive preparation is permitted: source recovery, briefs, project outlines, draft instructions, rights/collaboration preparation, and bounded read-only framework research. Do not begin queued-project implementation, prototypes, engine migration, purchases, or live Editor work.
 
-## 3. Source package — reopen and inspect directly
+## 4. Source package — reopen and inspect directly
 
 ### A. Original development-method workshop
 
@@ -158,7 +158,7 @@ An October 24 Library chat export contains earlier and internally conflicting pr
 
 Do not resurrect older project sequencing merely because it appears in an earlier export.
 
-## 4. Review and implementation work
+## 5. Review and implementation work
 
 ### Phase A — independent source audit
 
@@ -269,7 +269,7 @@ Obtain creator approval for the implementation plan before workstation installat
 
 After approval, execute the approved work in small verified stages. Do not stop at recommendations when an approved and available action can be carried out. For every stage, make the approved change, verify the actual result, record evidence, and update the relevant GitHub documentation on the dedicated integration branch. Do not merge to `main` without separate approval. Do not repeat setup scans or blind retries. Preserve completed work if another component is blocked.
 
-## 5. Non-negotiable restrictions
+## 6. Non-negotiable restrictions
 
 - FATDOG remains the exclusive active game-production priority until accepted Beta readiness.
 - No second game enters active production before that transition.
@@ -286,7 +286,7 @@ After approval, execute the approved work in small verified stages. Do not stop 
 - Do not claim a test, installation, connection, build, or acceptance passed without retained evidence.
 - The creator retains authority over creative direction, project sequencing, gameplay feel, scope, paid decisions, and release acceptance.
 
-## 6. Required Astra deliverables
+## 7. Required Astra deliverables
 
 1. **Source Audit Report** — exact sources read, coverage, provenance, and gaps.
 2. **Conflict and Authority Ledger** — source disagreements and the controlling decision for each.
@@ -302,7 +302,7 @@ After approval, execute the approved work in small verified stages. Do not stop 
 12. **Production Transition Plan** — FATDOG Beta acceptance, Gulf to Bay readiness gate, then Aeregul, then BURNZA.
 13. **Final Handoff** — what was changed, what remains deferred, blockers, GitHub links, and the next authorized action.
 
-## 7. GitHub recording and final delivery
+## 8. GitHub recording and final delivery
 
 The final Work-chat delivery must include:
 
@@ -315,7 +315,7 @@ The final Work-chat delivery must include:
 
 Never report a GitHub change as completed until the exact file and commit can be reopened and verified. Keep the v1.3.1 review branch intact as provenance. Do not merge or delete it without creator approval.
 
-## 8. Definition of success
+## 9. Definition of success
 
 Success is not the number of tools installed, the number of agents running, or a theoretical autonomy level.
 
